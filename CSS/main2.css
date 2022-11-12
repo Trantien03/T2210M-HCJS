@@ -1,0 +1,26 @@
+body{
+    margin: 90px;
+}
+h1{
+    color: #ded5d5;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+hr{
+    height:6px;
+    width:100%;
+    background-color: #e8d5d5;
+}
+ul{
+    width: 300px;
+    float: right;
+    list-style: none;
+}
+li{
+    font-size:18px ;
+    text-align: right;
+    line-height: 1.5;
+}
+p{
+    text-align: left;
+}
