@@ -1,14 +1,17 @@
+h1{
+    color: #d728de;
+    text-align: center;
+}
 img{
     max-width: 75%;
+    text-align: center;
 }
 div{
+    text-align: center;
     width:25%;
     float: left;
-    margin: 15px 10px 15px 20px;
-    padding: 15px;
+    margin: 15px 15px 15px 15px;
+    padding: 10px;
     box-sizing: border-box;
-    border-radius: 20px;
-    box-shadow: 5px 5px 15px #06f830;
-    background-color: #7c7b7a;
-    text-align-all: left;
+    background-color: #42403e;
 }
